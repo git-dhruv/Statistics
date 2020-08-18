@@ -1,0 +1,3 @@
+# Statistics
+Some Statistics analytical program made to visualize data for my course
+Documentation left to do...
